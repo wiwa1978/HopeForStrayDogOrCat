@@ -1,0 +1,5 @@
+1) Ik heb de text ingevoerd met alineas maar dit pakt niet op de site.
+2) Icons social media Contact us
+3) Rendering op iphone oplossen
+
+New bug
