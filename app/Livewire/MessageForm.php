@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Livewire;
 
 use App\Models\Message;
@@ -47,7 +48,6 @@ class MessageForm extends Component
         $this->success = 'Thank you for reaching out to us!';
 
         $this->clearFields();
-
     }
 
     private function clearFields()
@@ -65,7 +65,7 @@ class MessageForm extends Component
         /**
          * Store a receiver email address to a variable.
          */
-        $reveiverEmailAddress = "wauterw@gmail.com";
+        $reveiverEmailAddress = "wauters1978@gmail.com";
 
 
 
