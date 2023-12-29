@@ -65,7 +65,8 @@ class MessageForm extends Component
         /**
          * Store a receiver email address to a variable.
          */
-        $reveiverEmailAddress = "wauters1978@gmail.com";
+        //$reveiverEmailAddress = "wauters1978@gmail.com";
+        $reveiverEmailAddress = "hopeforstraydogsalbania@yahoo.com";
 
 
 
